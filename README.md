@@ -2,28 +2,20 @@
 
 Supplementary materials for the CHI 2027 submission *Human Oversight of Compromised LLM Agent Outputs: Effects of User-Facing Warnings on Recognition and Behavioral Compliance*.
 
-This repository packages the study instruments, anonymized survey responses, task-interface examples, platform notes, and a short walkthrough video shown to participants before the session.
+## What is in this repository
 
-## Contents
+- `Survey_Materials/User_Guidance.mp4`: walkthrough video shown to participants before the session (720p, about 5 MB).
+- `Survey_Materials/Questionnaires/`: pre-experiment, post-scenario, and post-experiment instruments.
+- `Survey_Materials/Survey_Data/`: anonymized responses for Control and Guard1 to Guard3.
+- `Task_Resources_Example/`: example screenshots of the agent task interfaces.
+- `Study_Platform/platform.md`: deployment notes for the study platform.
 
-```
-.
-|-- supplementary.pdf                 # Supplementary document (platform, instruments, extra analyses)
-|-- Study_Platform/
-|   `-- platform.md                   # Deployment notes for the study platform
-|-- Survey_Materials/
-|   |-- Questionnaires/               # Pre-experiment, post-scenario, post-experiment instruments
-|   |-- Survey_Data/                  # Anonymized responses (Control, Guard1-3)
-|   `-- User_Guidance.mp4             # Walkthrough video shown before the session (~5 MB, 720p)
-`-- Task_Resources_Example/           # Example screenshots of agent task interfaces
-```
+## Supplementary PDF
 
-## Walkthrough video
-
-`Survey_Materials/User_Guidance.mp4` is the guidance video shown to participants. It is encoded at 720p for easy download and in-browser viewing.
+The formatted supplementary PDF is included in the conference submission package. Please use that file rather than an in-browser PDF preview here. Anonymous GitHub can display PDF binaries incorrectly.
 
 ## Notes
 
 - Survey responses are anonymized.
-- The Docker image for the study platform is omitted here because of size. Deployment requirements and the runtime command are documented in `Study_Platform/platform.md`.
-- Please cite this anonymous repository URL in reviews, not any public GitHub owner or repository name.
+- The Docker image for the study platform is omitted because of size. Runtime requirements and the launch command are in `Study_Platform/platform.md`.
+- For review, cite this anonymous repository URL only. Do not cite any public GitHub owner or repository name.
