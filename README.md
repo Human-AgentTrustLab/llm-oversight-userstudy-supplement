@@ -5,6 +5,7 @@ Supplementary materials for the CHI 2027 submission *Human Oversight of Compromi
 ## What is in this repository
 
 - `Survey_Materials/User_Guidance.mp4`: walkthrough video shown to participants before the session (720p, about 5 MB).
+- `Survey_Materials/User_Guidance.srt`: descriptive closed captions for the silent walkthrough video.
 - `Survey_Materials/Questionnaires/`: pre-experiment, post-scenario, and post-experiment instruments.
 - `Survey_Materials/Survey_Data/`: anonymized responses for Control and Guard1 to Guard3.
 - `Task_Resources_Example/`: example screenshots of the agent task interfaces.

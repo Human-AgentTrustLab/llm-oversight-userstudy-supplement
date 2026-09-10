@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:03,400
+[On-screen text] Welcome to HAT-Lab. The page introduces the study platform and asks the participant to click Continue.
+
+2
+00:00:03,400 --> 00:00:12,000
+[Visual] The interface opens the scenario list. Available agents appear as cards, including Cover Letter Agent and HR Agent.
+
+3
+00:00:12,000 --> 00:00:34,000
+[Visual] The participant expands the HR Agent card. The task description asks them to choose the best candidate for a Java Engineer role.
+
+4
+00:00:34,000 --> 00:00:53,000
+[Visual] The participant continues browsing the scenario cards before starting a task with the agent.
+
+5
+00:00:53,000 --> 00:01:06,000
+[Visual] The chat workspace opens. The agent asks the participant to upload a job description for a cover-letter task.
+
+6
+00:01:06,000 --> 00:01:14,000
+[Visual] The participant interacts with the agent chat. The left panel shows the current task materials and instructions.
+
+7
+00:01:14,000 --> 00:01:54,000
+[Visual] After the agent produces an output, a post-scenario survey appears. The first question asks whether anything unusual was noticed.
+
+8
+00:01:54,000 --> 00:02:00,000
+[Visual] The participant answers the anomaly-perception item and continues through the remaining scenario questions.
+
+9
+00:02:00,000 --> 00:02:20,000
+[Visual] Additional post-scenario items appear, including ratings and short free-text responses about the agent's output.
+
+10
+00:02:20,000 --> 00:02:36,000
+[Visual] The post-experiment survey begins. One item asks how the participant's trust in AI agents changed after learning about the study.
+
+11
+00:02:36,000 --> 00:02:55,000
+[Visual] Later survey pages ask about future caution with AI agents and preferred defense strategies for agent-related threats.
+
+12
+00:02:55,000 --> 00:03:19,381
+[On-screen text] Thank you for your participation. The page confirms that the study session is complete and that the response has been recorded.
