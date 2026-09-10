@@ -1,4 +1,4 @@
-# Supplementary Materials (Anonymous)
+# Supplementary Materials
 
 Supplementary materials for the CHI 2027 submission *Human Oversight of Compromised LLM Agent Outputs: Effects of User-Facing Warnings on Recognition and Behavioral Compliance*.
 
